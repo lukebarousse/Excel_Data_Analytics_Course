@@ -9,6 +9,5 @@ Data Nerds! This repo contains all the Excel files needed to follow along my fre
 **📺 Video Editor:** [Brannon Linder](https://www.linkedin.com/in/brannonlinder)
 
 ## TODO:
-- [ ] Add URL to the video
-- [ ] Add Table of Contents
 - [ ] Build Course
+- [ ] Add URL to YT Video
