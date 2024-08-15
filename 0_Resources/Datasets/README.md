@@ -11,22 +11,22 @@ The following datasets are not included in the repository due to GitHub size con
 
 ## Datasets
 
-### 1. [`data_jobs_20rows.xlsx`](0_Resources/Datasets/data_jobs_20rows.xlsx)
+### 1. [`data_jobs_20rows.xlsx`](data_jobs_20rows.xlsx)
 This is a small sample dataset containing only 20 rows. It is useful for quick testing or demonstrating functionalities without the overhead of handling larger files.
 
 ---
 
-### 2. [`data_jobs_salary_all.xlsx`](0_Resources/Datasets/data_jobs_salary_all.xlsx)
+### 2. [`data_jobs_salary_all.xlsx`](data_jobs_salary_all.xlsx)
 This Excel file focuses on the salary information of data science roles. It provides salary estimates across different companies, locations, and job titles.
 
 ---
 
-### 3. [`data_jobs_salary_monthly.xlsx`](0_Resources/Datasets/data_jobs_salary_monthly.xlsx)
+### 3. [`data_jobs_salary_monthly.xlsx`](data_jobs_salary_monthly.xlsx)
 Similar to `data_jobs_salary_all.xlsx`, this file provides a breakdown of salary information on a monthly basis. This can be useful for observing salary trends over time.
 
 ---
 
-### 4. [`data_jobs_monthly 📂 `](0_Resources/Datasets/data_jobs_monthly/)
+### 4. [`data_jobs_monthly 📂 `](data_jobs_monthly/)
 This file contains data science job postings aggregated on a monthly basis. Each row represents job listings for a specific month, providing insights into trends over time.
 
 ---
@@ -45,7 +45,7 @@ This is a SQLite database file containing all the datasets combined into relatio
 
 ---
 
-### 7. [`data_jobs_csvs.zip`](0_Resources/Datasets/data_jobs_csvs.zip)
+### 7. [`data_jobs_csvs.zip`](data_jobs_csvs.zip)
 A compressed archive containing multiple CSV files. Each CSV file represents the different tables of a database. Only for use if `data_jobs.db` is not available.
 
 **Applicability**: [Power Pivot Lesson](../../8_Power_Pivot/)
