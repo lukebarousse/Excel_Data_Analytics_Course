@@ -1,2 +1,4 @@
 .DS_Store
 ~*.xlsx
+data_jobs.db
+data_jobs_large.csv
