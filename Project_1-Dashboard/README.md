@@ -22,7 +22,7 @@ I used the following Excel skills to build this dashboard:
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-![1_Salary_Dashboard_Chart1.png](/0_Resources/Images/1_Salary_Dashboard_Chart1.png)
+<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -66,7 +66,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![1_Salary_Dashboard_Title.png](/0_Resources/Images/1_Salary_Dashboard_Job_Title.png)
+<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -83,7 +83,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Type.png)
+<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
 
 
 ### ❎ Data Validation
@@ -94,8 +94,8 @@ IF(
     - 🎯 User input is restricted to predefined, validated schedule types
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
-    
-![1_Salary_Dashboard_Data_Validation.gif](/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif)
+
+<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
